@@ -79,4 +79,4 @@ Training scripts and guides live under `backend/ml_models/training/` (e.g. Colab
 
 ## License
 
-MIT (or your chosen license).
+MIT
